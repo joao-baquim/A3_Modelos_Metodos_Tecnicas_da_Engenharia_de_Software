@@ -8,7 +8,7 @@ Integrantes:
 
 Este repositório contém o desenvolvimento da atividade A3 da disciplina de Modelos, Métodos e Técnicas da Engenharia de Software.
 
-Documentação do projeto disponível no arquivo: [Documentação](./Documentacao.docx)
+Documentação do projeto disponível no arquivo: [Documentação](./Documentacao.md)
 
 Diagramas:
 - [Diagrama de Casos de Uso](./diagrama-casos-de-uso.png)
