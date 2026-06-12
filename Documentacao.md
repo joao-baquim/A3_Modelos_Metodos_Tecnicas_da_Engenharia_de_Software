@@ -9,7 +9,6 @@ O levantamento de requisitos foi realizado por meio de:
 - Análise de problemas recorrentes
 - Discussão com possíveis usuários do sistema (caixa/estoquista)
 
----
 
 ## Funcionamento Atual do Processo
 
@@ -19,7 +18,6 @@ Atualmente, o controle de estoque é feito de forma:
 - Sem atualização em tempo real
 - Sem controle automatizado de entrada e saída de produtos
 
----
 
 ## Necessidades dos Usuários
 
@@ -31,7 +29,6 @@ Os usuários precisam de:
 - Registro automático de vendas
 - Alertas de estoque baixo
 
----
 
 ## Problemas Identificados
 
@@ -41,7 +38,6 @@ Os usuários precisam de:
 - Perda de vendas por falta de informação
 - Tempo elevado para conferência manual
 
----
 
 ## Atores Envolvidos
 
@@ -49,7 +45,6 @@ Os usuários precisam de:
 - **Funcionário** (estoquista/caixa)
 - **Sistema** (software desenvolvido)
 
----
 
 ## Funcionalidades do Sistema
 
@@ -58,7 +53,6 @@ Os usuários precisam de:
 - Consulta de produtos
 - Registro de vendas
 
----
 
 ## Problemas Resolvidos pela Solução
 
@@ -70,4 +64,3 @@ O sistema proposto resolve:
 - Dificuldade de acesso à informação
 - Perda de vendas por desorganização
 
----
