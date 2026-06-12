@@ -10,7 +10,8 @@ Este repositório contém o desenvolvimento da atividade A3 da disciplina de Mod
 
 Documentação do projeto disponível no arquivo: [Documentação](./Documentacao.docx)
 
-Código desenvolvido disponível no arquivo: 
+Diagramas:
+- [Diagrama de Casos de Uso](./diagrama-casos-de-uso.png)
+- [Diagrama de Classes](./diagrama-classes.png)
 
-Diagrama de Classe: 
-Diagrama de Caso de Uso:
+Código desenvolvido disponível no arquivo: 
