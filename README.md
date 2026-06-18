@@ -140,11 +140,10 @@ mvn test
 ```
 
 ## Integrantes do grupo
-- Integrante 1: __________________________________
-- Integrante 2: __________________________________
-- Integrante 3: __________________________________
-- Integrante 4: __________________________________
-- Integrante 5: __________________________________
+- Integrante 1: João Eduardo de Souza Lima Baquim - 12319730
+- Integrante 2: Lucas Franklin Batista França - 12319245
+- Integrante 3: Ana Luísa Pacífico Ramos Cruz - 1232023412
+- Integrante 4: Vitória Rabelo Leite - 123115759
 
 ## URL do repositório
-- GitHub: __________________________________
+- GitHub: https://github.com/joao-baquim/A3_Modelos_Metodos_Tecnicas_da_Engenharia_de_Software.git
