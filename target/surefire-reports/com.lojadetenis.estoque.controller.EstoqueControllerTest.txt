@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lojadetenis.estoque.controller.EstoqueControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.89 s -- in com.lojadetenis.estoque.controller.EstoqueControllerTest

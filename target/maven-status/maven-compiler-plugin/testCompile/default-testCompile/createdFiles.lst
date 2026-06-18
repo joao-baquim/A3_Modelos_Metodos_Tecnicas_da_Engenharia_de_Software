@@ -1,0 +1,4 @@
+com\lojadetenis\estoque\service\TenisServiceTest.class
+com\lojadetenis\estoque\controller\EstoqueControllerTest.class
+com\lojadetenis\estoque\controller\TenisControllerTest.class
+com\lojadetenis\estoque\service\EstoqueServiceTest.class
